@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/codes/sdf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/codes/x1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/codes/xxo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/codes/xxoo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/codes/xxxxxxx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deploy_projects/luffycity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deploy_projects/luffycity/luffycity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deploy_projects/luffycity/prod/luffycity-v1-20191209021306" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deploy_projects/luffycity/prod/luffycity-v1-20191209022052" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deploy_projects/luffycity/prod/luffycity-v1-20191209122754" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deploy_projects/luffycity/prod/luffycity-v1-20191209205353" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deploy_projects/luffycity/prod/luffycity-v1-20191209205711" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deploy_projects/luffycity/prod/luffycity-v2-20191209021927" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deploy_projects/luffycity/prod/luffycity-v2-20191209022130" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deploy_projects/luffycity/prod/luffycity-v2-20191209022156" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deploy_projects/luffycity/test/luffycity-v1-20191206085052" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deploy_projects/luffycity/test/luffycity-v1-20191208090505" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deploy_projects/luffycity/test/luffycity-v1-20191209071802" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deploy_projects/luffycity/test/luffycity-v1-20191209112850" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deploy_projects/luffycity/test/luffycity-v1-20191209113743" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deploy_projects/luffycity/test/luffycity-v2-20191206085753" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deploy_projects/luffycity/test/luffycity-v2-20191206110403" vcs="Git" />
+  </component>
+</project>
